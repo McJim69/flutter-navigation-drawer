@@ -1,4 +1,4 @@
-# Login UI
+# Navigation Drawer Sample
 
 Simple Navigation Drawer sample screen with a basic hero animation in Flutter, a mobile sdk framework by Google.
 
